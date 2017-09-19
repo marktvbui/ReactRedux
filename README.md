@@ -1,0 +1,1 @@
+Simple React + Redux practice app
